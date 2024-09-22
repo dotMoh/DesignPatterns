@@ -1,0 +1,2 @@
+Apple,0.7
+Orange,0.9
